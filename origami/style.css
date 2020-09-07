@@ -1,0 +1,17 @@
+h1{
+    font-style: oblique;
+    color: red;
+}
+.para{
+    font-style: italic;
+    color: orange;
+}
+.types{
+    font-size: 35px;
+    font-style: italic;
+    color: blueviolet;
+}
+img{
+    border : solid;
+    border-color: blue;
+}
